@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-labelledby="hero-dark-title hero-dark-desc">
-  <title id="hero-dark-title">B—TQ · An independent practice</title>
+  <title id="hero-dark-title">Bluebu · An independent practice</title>
   <desc id="hero-dark-desc">An editorial nameplate for a cross-disciplinary practice in AI, software and interaction.</desc>
   <rect width="1200" height="200" fill="#151916"/>
   <g font-family="Arial, Helvetica, sans-serif" fill="#eef1e9">
 
-    <text x="40" y="146" font-size="148" font-weight="700" letter-spacing="-10">B—TQ</text>
+    <text x="40" y="146" font-size="148" font-weight="700" letter-spacing="-10">Bluebu</text>
     <line x1="640" y1="40" x2="640" y2="160" stroke="#4e584e"/>
     <text x="688" y="92" font-size="36" letter-spacing="-1">An independent</text>
     <text x="688" y="138" font-size="36" letter-spacing="-1">practice.</text>
